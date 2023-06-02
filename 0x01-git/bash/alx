@@ -1,5 +1,4 @@
 #!/bin/bash^C
-echo "ALX"
-
+echo "ALX School is so cool!"
 
 cd ..
